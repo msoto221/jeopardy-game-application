@@ -1,1 +1,0 @@
-# jeopardy-game-application
